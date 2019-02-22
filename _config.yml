@@ -30,7 +30,7 @@ navbar-links:
     - 
     - 
     -
-  Blog: "blog"
+  Blog: "/blog/index.html"
   Links: "links"
  
 
