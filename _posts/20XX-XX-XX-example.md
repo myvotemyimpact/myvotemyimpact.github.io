@@ -11,6 +11,9 @@ author: your name here
 ## Title 2
 ### Title 3
 
+{: .box-warning} To copy this example file, click the 'raw' button above here, select the text and copy it. 
+{: .box-warning} To edit this example file, click the pencil in the right-upper corner, and save the file by clicking the commit button down in the page.
+
 _italics_
 __bold__
 ___bold+italics___
