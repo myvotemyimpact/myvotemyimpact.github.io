@@ -3,7 +3,7 @@ layout: page
 title: I'm for the European Union because...
 subtitle: Our pledges for Europe
 permalink: /resources/slogans/
-bigimgs: "/img/bigimg/Posters-45.jpg"
+bigimg: "/img/bigimg/Posters-45.jpg"
 ---
 
 ### Check out why our participants stand for the European Union
