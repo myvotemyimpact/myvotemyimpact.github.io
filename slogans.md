@@ -13,63 +13,34 @@ So we complete the sentence "I'm for the European Union because..." with our rea
 
 Don't miss it!
 
-- _I want a more substainable and united world._ 
-__Hue, Denmark__
+- _I want a more substainable and united world._ __Hue, Denmark__
 
-- _I believe technological development and nature protection can be done together._
-__Lidia, Romania__
+- _I believe technological development and nature protection can be done together._ __Lidia, Romania__
 
-> Here we can be united and unique in the same time.
-Krisztina, Hungary
+- _Here we can be united and unique in the same time._ __Krisztina, Hungary__
 
-> It provides me with so many opportunities to explore, live and experience in the EU.
+- _It provides me with so many opportunities to explore, live and experience in the EU._ __Rebecca, Germany__
 
-Rebecca, Germany
+- _We can work on the future (and actual) challenges - like climate crises, economic development, social justice - only if we cooperate. I enjoy the freedom and security in EU, it should also be there in the future!_ __Barbara, Austria__
 
-> We can work on the future (and actual) challenges - like climate crises, economic development, social justice - only if we cooperate. I enjoy the freedom and security in EU, it should also be there in the future!
+- _I love unity with the diversity._ __Aurelie, France__
 
-Barbara, Austria
+- _I feel free and supported._ __Cristian, Romania__
 
-> I love unity with the diversity.
+- _Living and laughing, working and learning, creating, improving and growing works only together._ __Michael, Germany/Poland__
 
-Aurelie, France
+- _I care about the future._ __Tomas, Czech Republic__
 
-> I feel free and supported.
+- _It is our home._ __Hazem, Hungary__
 
-Cristian, Romania
+- _Joint together the society in a space of freedom, equality and prosperity._ __Josep, Spain__
 
-> living and laughing, working and learning, creating, improving and growing works only together.
+- _The European Union gives me the freedom to study, travel and work-_ __Deimante, Lithuania__
 
-Michael, Germany/Poland
+- _Tomorrow has no borders._ __Jorge, Spain__
 
-> I care about the future.
+- _I am able to travel, work and study within the European Union freely._ __Anna, Latvia__
 
-Tomas, Czech Republic
+- _It's the future._ __Andriy, Spain__
 
-> It is our home.
-
-Hazem, Hungary
-
-> Joint together the society in a space of freedom, equality and prosperity.
-
-Josep, Spain
-
-> The European Union gives me the freedom to study, travel and work.
-
-Deimante, Lithuania
-
-> Tomorrow has no borders.
-
-Jorge, Spain
-
-> I am able to travel, work and study within the European Union freely.
-
-Anna, Latvia
-
-> It's the future.
-
-Andriy, Spain
-
-> I share the EU values, I appreciate the freedom of moving around, studying and working in the EU and I have hope for a peaceful future!
-
-Marie, Germany
+- _I share the EU values, I appreciate the freedom of moving around, studying and working in the EU and I have hope for a peaceful future!_ __Marie, Germany__
