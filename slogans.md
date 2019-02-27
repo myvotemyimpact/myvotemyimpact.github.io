@@ -13,10 +13,11 @@ So we complete the sentence "I'm for the European Union because..." with our rea
 
 Don't miss it!
 
-- _I want a more substainable and united world._ __Hue, Denmark__
+- _I want a more substainable and united world._ 
+__Hue, Denmark__
 
-> I believe technological development and nature protection can be done together.
-> __Lidia, Romania__
+- _I believe technological development and nature protection can be done together._
+__Lidia, Romania__
 
 > Here we can be united and unique in the same time.
 Krisztina, Hungary
